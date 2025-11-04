@@ -1,4 +1,4 @@
-import * as pdfjs from 'pdfjs-dist/legacy/build/pdf.mjs';
+import * as pdfjs from 'pdfjs-dist';
 
 async function getPDFDoc () {
   try {
